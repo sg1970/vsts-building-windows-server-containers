@@ -1,4 +1,4 @@
-# Building Windows Server Contianers with VSTS
+# Building Windows Server Containers with VSTS
 
 ## Approach 1: Run your own agent
 
